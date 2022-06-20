@@ -1,0 +1,100 @@
+{
+  "src/assets/logo.png": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/components/HelloWorld.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/components/HelloWorld.vue": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/App.vue?vue&type=style&index=0&lang.css": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/App.vue": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/store/index.js": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "vite/preload-helper": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/router/index.js": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/entry-client.js": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "index.html": [
+    "/assets/logo.03d6d6da.png"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/vuex-router-sync/dist/vuex-router-sync.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/vuex/dist/vuex.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.a5cdb3c5.js"
+  ],
+  "src/pages/Home.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/Home.78077c23.js",
+    "/assets/Home.9d018cc2.css"
+  ],
+  "src/pages/Home.vue": [
+    "/assets/Home.78077c23.js",
+    "/assets/Home.9d018cc2.css"
+  ],
+  "src/pages/About.vue": [
+    "/assets/About.aa8ec46c.js"
+  ],
+  "src/pages/404.vue": [
+    "/assets/404.a28a2216.js"
+  ]
+}
